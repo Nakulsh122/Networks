@@ -1,0 +1,49 @@
+HELLO
+ABC
+CSE
+IIT Kharagpur
+
+HELLO
+XYZ
+ECE
+IIT Bombay
+
+HELLO
+PQR
+ME
+IIT Delhi
+
+HELLO
+LMN
+CHE
+IIT Madras
+
+HELLO
+JKL
+CE
+IIT Kanpur
+
+HELLO
+STU
+MSE
+IIT Roorkee
+
+HELLO
+DEF
+EE
+IIT Guwahati
+
+HELLO
+GHI
+BME
+IIT BHU
+
+HELLO
+NOP
+Civil
+IIT Indore
+
+HELLO
+UVW
+AI
+IIT Ropar
