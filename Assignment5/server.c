@@ -338,7 +338,7 @@ int main(int argc, char *argv[])
                             clientList[i].processing = 0;
                             clientList[i].task_id = -1;
 
-                            printf("Task completed by client %d with results : %d\n", i, result);
+                            printf("Task completed by client %d with results : %d\n\n", i, result);
                             char *msg = "Result Recieved";
                             send_to_client(clientList[i].socket, msg);
                         }

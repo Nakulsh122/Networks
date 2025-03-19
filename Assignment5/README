@@ -1,0 +1,14 @@
+the code is divided into the server and yhe client programs ,
+
+steps to run : 
+
+compile the server code with 
+gcc -o client client.c 
+start the sevrve using the command ./server <textfilename>
+
+compile the client in seperate window
+gcc -0 client client.c
+there is a bash script that runs xtern windows along with the client and the usage is 
+./spawn_clients.sh <no. of clients>
+
+all the scripts must be run in the bash environment
